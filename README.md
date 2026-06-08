@@ -33,22 +33,6 @@ The V1 landing page includes:
 - private/applied review boundary;
 - contact email.
 
-## Not included in V1
-
-The V1 landing page should not include:
-
-- service pricing;
-- client intake forms;
-- regulatory or safety-certification language;
-- object identification claims;
-- origin claims;
-- propulsion claims;
-- proprietary thresholds;
-- internal review logic;
-- cohort-specific packaging;
-- decision or emission logic;
-- detailed Orb candidacy claims.
-
 ## Contact
 
 For V1, the public contact email is:
